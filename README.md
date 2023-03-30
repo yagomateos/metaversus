@@ -2,5 +2,5 @@
 
 ### [Live Site](https://metaversus-three-kohl.vercel.app)
 
-![Chat Application](https://i.ibb.co/sbSHWH0/Thumbnail-1.png)
+![Chat Application](https://raw.githubusercontent.com/yagomateos/metaversus/master/public/snap.PNG)
 
